@@ -38,24 +38,24 @@ This repository documents my journey of learning **Pandas**, one of the most pow
 ```text
 pandas_learning_project/
 ├── 01_basics_and_structures/
-│   ├── 01_pandas_intro.ipynb
-│   ├── 02_series_basics.ipynb
-│   └── 03_dataframe_basics.ipynb
+│   ├── 01_pandas_intro.md
+│   ├── 02_series_basics.py
+│   └── 03_dataframe_basics.py
 │
 ├── 02_data_navigation/
-│   ├── 01_data_selection.ipynb
-│   └── 02_filtering.ipynb
+│   ├── 01_data_selection.py
+│   └── 02_filtering.py
 │
 ├── 03_data_cleaning_prep/
-│   ├── 01_missing_values.ipynb
-│   ├── 02_string_operations.ipynb
-│   └── 03_datetime_handling.ipynb
+│   ├── 01_missing_values.py
+│   ├── 02_string_operations.py
+│   └── 03_datetime_handling.py
 │
 ├── 04_advanced_analytics/
-│   ├── 01_groupby_basics.ipynb
-│   ├── 02_aggregation.ipynb
-│   ├── 03_merge_and_join.ipynb
-│   └── 04_pivot_tables.ipynb
+│   ├── 01_groupby_basics.py
+│   ├── 02_aggregation.py
+│   ├── 03_merge_and_join.py
+│   └── 04_pivot_tables.py
 │
 └── README.md
 ```
